@@ -1,0 +1,268 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.alllink {
+    color: #2e363d;
+    position: relative;
+    top: -1px;
+}
+
+
+/*右链接样式*/
+
+.alllink:hover {
+    color: #f50;
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+}
+
+h2{
+    font-size:14px;
+    text-align: left;
+    margin-left: 10px;
+}
+/*链接设置*/
+.ontop {
+    margin-left: 10px;
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+tr{
+    height:25%;
+}
+.baiduicon {
+    display: inline-block;
+    width: 17px;
+    height: 18px;
+    background-image: url("icon.png");
+    background-position: 0 465px;
+    position: relative;
+    top: 5px;
+}
+
+
+/*百度logo*/
+
+.sinaicon {
+    display: inline-block;
+    width: 17px;
+    height: 18px;
+    background-image: url("icon.png");
+    background-position: 0 385px;
+    position: relative;
+    top: 5px;
+}
+
+
+/*新浪logo*/
+
+.sohuicon {
+    display: inline-block;
+    width: 17px;
+    height: 18px;
+    background-image: url("icon.png");
+    background-position: 0 344px;
+    position: relative;
+    top: 5px;
+}
+
+
+/*搜狐logo*/
+
+.qqicon {
+    display: inline-block;
+    width: 17px;
+    height: 18px;
+    background-image: url("icon.png");
+    background-position: 0 625px;
+    position: relative;
+    top: 5px;
+}
+
+
+/*腾讯logo*/
+
+.wangyiicon {
+    display: inline-block;
+    width: 17px;
+    height: 18px;
+    background-image: url("icon.png");
+    background-position: 0 505px;
+    position: relative;
+    top: 5px;
+}
+
+
+/*网易logo*/
+
+.youkuicon {
+    display: inline-block;
+    width: 17px;
+    height: 18px;
+    background-image: url("icon.png");
+    background-position: 0 265px;
+    position: relative;
+    top: 5px;
+}
+
+
+/*优酷logo*/
+
+.tmallicon {
+    display: inline-block;
+    width: 17px;
+    height: 18px;
+    background-image: url("icon.png");
+    background-position: 0 185px;
+    position: relative;
+    top: 5px;
+}
+
+
+/*天猫logo*/
+
+.ifengicon {
+    display: inline-block;
+    width: 17px;
+    height: 18px;
+    background-image: url("icon.png");
+    background-position: 0 425px;
+    position: relative;
+    top: 5px;
+}
+
+
+/*凤凰logo*/
+
+.taobaoicon {
+    display: inline-block;
+    width: 17px;
+    height: 18px;
+    background-image: url("icon.png");
+    background-position: 0 305px;
+    position: relative;
+    top: 5px;
+}
+
+
+/*淘宝logo*/
+
+.gameicon {
+    display: inline-block;
+    width: 17px;
+    height: 18px;
+    background-image: url("gamei.png");
+    background-position: -3px;
+    position: relative;
+    top: 5px;
+}
+
+
+/*小游戏logo*/
+
+.g4399icon {
+    display: inline-block;
+    width: 17px;
+    height: 18px;
+    background-image: url("icon.png");
+    background-position: 0 0;
+    position: relative;
+    top: 5px;
+}
+
+
+/*4399游戏logo*/
+
+.xinhuaicon {
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    background-image: url("xinhua.png");
+    position: relative;
+    top: 3px;
+}
+
+
+/*新华logo*/
+
+.jdicon {
+    display: inline-block;
+    width: 17px;
+    height: 18px;
+    background-image: url("jd.png");
+    position: relative;
+    top: 5px;
+}
+
+
+/*京东logo*/
+
+.jhsicon {
+    display: inline-block;
+    width: 17px;
+    height: 18px;
+    background-image: url("jhs.png");
+    position: relative;
+    top: 5px;
+}
+
+
+/*聚划算logo*/
+
+.jrtjicon {
+    display: inline-block;
+    width: 17px;
+    height: 18px;
+    background-image: url("jrtj.png");
+    position: relative;
+    top: 5px;
+}
+
+
+/*今日特价logo*/
+
+.hmovieicon {
+    display: inline-block;
+    width: 17px;
+    height: 18px;
+    background-image: url("icon.png");
+    background-position: 0 99%;
+    position: relative;
+    top: 5px;
+}
+
+
+/*hao123影视logo*/
+
+.caricon {
+    display: inline-block;
+    width: 17px;
+    height: 18px;
+    background-image: url("icon.png");
+    background-position: 0 143px;
+   position: relative;
+    top: 5px;
+}
+
+
+/*汽车之家logo*/
+
+.moneyicon {
+    display: inline-block;
+    width: 17px;
+    height: 18px;
+    background-image: url("icon.png");
+    background-position: 0 103px;
+   position: relative;
+    top: 5px;
+}
+
+
+/*彩票开奖logo*/
+
